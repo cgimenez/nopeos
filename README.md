@@ -20,7 +20,7 @@ Pre-requisites (macOS with Mac Ports):
 
 Download:
 
-    git clone https://github.com/d99kris/nopeos && cd nopeos
+    git clone https://github.com/cgimenez/nopeos && cd nopeos
 
 Build (outputs `kernel.bin` and `kernel.iso`):
 
